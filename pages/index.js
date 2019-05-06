@@ -1,11 +1,8 @@
+const Index = () => (
+  <div>
+    <h1>Home</h1>
+    Welcome to the index page
+  </div>
+)
 
-
-
-const Index = () =>{
-
-  return(
-    <h1>Welcome to the index page</h1>
-  )
-}
-
-export default Index;
+export default Index
